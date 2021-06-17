@@ -1,5 +1,4 @@
 ### Hi, I'm Nitin Krishna<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 ## Your short description
 <!-- - 🔭 I’m currently working on -  -->
 <!-- - 🌱 I’m currently learning - ❔❔❔❔
@@ -14,6 +13,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="![image](https://user-images.githubusercontent.com/62352423/122349559-ff7f9880-cf69-11eb-8ba1-772b82175e58.png)" />][Instagram]
 <br />
 <!-- Optional if you have blogs -->
 <!-- ## Latest blog posts: -->
@@ -22,3 +22,4 @@
 <!-- This section you create this variables that are used above -->
 [website]: https://google.com
 [linkedin]: https://www.linkedin.com/in/nitin-krishna-makula-564b64195/
+[Instagram]: https://www.instagram.com/ultra_instinct2007/
