@@ -13,7 +13,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://user-images.githubusercontent.com/62352423/122349559-ff7f9880-cf69-11eb-8ba1-772b82175e58.png" />][Instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][Instagram]
 <br />
 <!-- Optional if you have blogs -->
 <!-- ## Latest blog posts: -->
